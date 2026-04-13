@@ -5,6 +5,7 @@ tags: [claude, cowork, seguridad, auditoria, diagrama, cliente, pii]
 related: ["[[Guides/Claude Cowork - Evidencias a Solicitar para Auditoría]]", "[[Sources/Harmonic Security - Securing Claude Cowork]]"]
 sources: ["Harmonic Security - Securing Claude Cowork.md", "Uso de Cowork en entornos empresariales.docx"]
 updated: 2026-04-13
+PII: Personally Identifiable Information
 ---
 
 # Claude Cowork — Diagramas para Presentación a Cliente
